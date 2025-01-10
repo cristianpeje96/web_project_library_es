@@ -100,16 +100,13 @@ h1 {
 }
 
 .content {
-  background-image: url("/images/staff_picks_background.jpg");
-  padding: 20px;
 }
 
 .staff {
+  background-image: url("/images/staff_picks_background.jpg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
-  padding-top: 50px;
-  padding-bottom: 50px;
   margin: 40px auto;
   padding: 20px;
 }
