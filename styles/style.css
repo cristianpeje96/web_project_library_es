@@ -61,7 +61,6 @@
   font-size: 62px;
   line-height: 76px;
   font-weight: 500;
-  margin-top: auto;
   margin-bottom: 32px;
   max-width: 635px;
 }
@@ -69,7 +68,7 @@
 .header__description {
   font-size: 20px;
   line-height: 30px;
-  margin-top: 16px;
+  margin-top: auto;
   max-width: 515px;
 }
 
