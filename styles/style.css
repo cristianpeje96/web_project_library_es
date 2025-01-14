@@ -61,9 +61,8 @@
   font-size: 62px;
   line-height: 76px;
   font-weight: 500;
-  margin-bottom: 32px;
   max-width: 635px;
-  margin-top: 68px;
+  margin: 128px 0 0;
 }
 
 .header__description {
@@ -107,9 +106,8 @@ h1 {
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
-  margin: 40px auto;
-  padding-top: 40px;
-  padding-bottom: 40px;
+  margin: 0 auto;
+  padding: 100px 100px 140px 100px;
 }
 
 .staff__title {
