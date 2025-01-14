@@ -51,7 +51,6 @@
 }
 
 .header__content {
-  /* Agrega las propiedades flex aquí */
   display: flex;
   align-items: center;
   justify-content: space-between;
