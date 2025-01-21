@@ -487,18 +487,18 @@
 }
 
 .person_name_cannon {
-  bottom: 216px;
-  left: 18px;
+  right: 216px;
+  bottom: 18px;
 }
 
 .person_name_mitchell {
-  bottom: 142px;
-  left: 82px;
+  bottom: 82px;
+  left: 142px;
 }
 
 .person_name_tarter {
-  top: 159px;
-  left: 79px;
+  top: 79px;
+  left: 159px;
 }
 
 .person__image {
